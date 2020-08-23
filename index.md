@@ -8,10 +8,10 @@ This site is hosted from github pages. It's open source!
 
 Check out the [GitHub](https://github.com/yaxamie/yaxamie).
 
-## Blog
-[Blog](./Blog)
+## links
 
-## Where to find me:
+[Check out my Blog!](./blog)
 
 [Twitter](http://www.twitter.com/yaxamie/ "Twitter") 
+
 [LinkedIn](https://www.linkedin.com/in/rusty-parks-5b8bb48/ "LinkedIn")
