@@ -10,8 +10,11 @@ Check out the [GitHub](https://github.com/yaxamie/yaxamie).
 
 ## links
 
-[Check out my Blog!](./blog)
+[My Blog](./blog)
+Wherein, I blog about programming and game design topics.
 
 [Twitter](http://www.twitter.com/yaxamie/ "Twitter") 
+Wherein, I occasionally chat in 140 characters or less
 
 [LinkedIn](https://www.linkedin.com/in/rusty-parks-5b8bb48/ "LinkedIn")
+Wherein, I list facts about my career.
