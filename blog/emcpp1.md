@@ -63,5 +63,20 @@ int main ()
 
 ```
 
+## declytype for lambda returns
+
+Based on templates, types T and U below might implement return values in a way we might not know generically
+In this case decltype and determine our return value for us!  (Fixed point example)
+```
+
+template<typename T, typename U>
+auto add(T t, U u) -> decltype(t + u) // return type depends on template parameters
+                                      // return type can be deduced since C++14
+{
+    return t+u;
+}
+```
+
+
 ## std::function vs auto closures
 
