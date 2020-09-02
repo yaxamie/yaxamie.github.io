@@ -76,7 +76,9 @@ auto add(T t, U u) -> decltype(t + u) // return type depends on template paramet
     return t+u;
 }
 ```
+## plus sign 
 
+auto test = +[]{}; is therefore deduced to void(*)()
 
 ## std::function vs auto closures
 
