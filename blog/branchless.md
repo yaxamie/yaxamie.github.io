@@ -432,4 +432,39 @@ int main() {
     return 0;
 }
 
+## Build Script
+```
+g++ -std=c++11 -o main main.cpp && ./main
+```
+
+```
+## Results
+```
+$ ./build_and_run.sh 
+
+Game Of Life
+test 1 time in microseconds 90375
+test 2 time in microseconds 253793
+test 3 time in microseconds 305055
+test 4 time in microseconds 265710
+test 5 time in microseconds 89726
+test 6 time in microseconds 86706
+
+$ ./build_and_run.sh 
+Game Of Life
+test 1 time in microseconds 89917
+test 2 time in microseconds 255202
+test 3 time in microseconds 298298
+test 4 time in microseconds 264149
+test 5 time in microseconds 89364
+test 6 time in microseconds 86223
+
+$ ./build_and_run.sh 
+Game Of Life
+test 1 time in microseconds 91940
+test 2 time in microseconds 254379
+test 3 time in microseconds 296202
+test 4 time in microseconds 267663
+test 5 time in microseconds 88878
+test 6 time in microseconds 87090
 ```
