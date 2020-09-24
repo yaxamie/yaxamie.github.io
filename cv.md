@@ -29,7 +29,7 @@
 
 ### Electronic Arts
 *February 2018 - Present*
-#### Unannounced Maxis Title (PC/Mac/iOS/Android)– Software Engineer II**
+#### Unannounced Maxis Title (PC/Mac/iOS/Android)– Software Engineer II
 * Rapid prototyping of core game features in Unity3D
 * Developing core game features in C++ for Unreal Engine 4.
 * Developed CI/CD pipeline for Mac Builds using Jenkins
