@@ -6,7 +6,7 @@ I am Rusty Parks, a game developer and tinkerer.
 
 This site is hosted from github pages. It's open source!
 
-Check out the [GitHub](https://github.com/yaxamie/yaxamie).
+Check out the [GitHub](https://github.com/yaxamie/yaxamie.github.io).
 
 ## links
 
